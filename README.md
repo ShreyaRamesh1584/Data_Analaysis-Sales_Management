@@ -41,6 +41,7 @@ SALES OVERVIEW: highlights the sales over time, covering various parameters incl
 PRODUCT INSIGHTS: highlights top selling products, key product segments and sales in different geographies among other paramenters
 
 The screenshots below give a preview of the dashboard:
+
 SALES OVERVIEW
 
 ![Sales Overview ](https://user-images.githubusercontent.com/107060022/215350359-4b720199-af43-46b5-b9bd-2b781b4abe95.png)
