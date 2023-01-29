@@ -4,9 +4,7 @@ Business Request and User Stories
 
 ![Screenshot 2023-01-30 001126](https://user-images.githubusercontent.com/107060022/215348581-29d6133c-d006-468c-9d03-9c75e654f105.png)
 
-Data Cleansing and Transformation using SQL 
-
-To create the necessary data model and meet business needs defined in the user stories the following tables were extracted using SQL.
+Data Cleansing and Transformation using SQL: To create the necessary data model and meet business needs defined in the user stories the following tables were extracted using SQL.
 
 One data sources (Sales Budget) was provided in Excel format and connected in the data model in the later stages. 
 
