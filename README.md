@@ -35,7 +35,9 @@ Below is a screenshot of the data model after cleansed and prepared tables were 
 SALES MANAGEMENT DASHBOARD
 
 The finished sales management dashboard, that focuses on combining tables to shows the sales over time, per customer and per product. The dashboards is divided into two parts:
+
 SALES OVERVIEW: highlights the sales over time, covering various parameters including sales across geographics locations, across customers and product segments
+
 PRODUCT INSIGHTS: highlights top selling products, key product segments and sales in different geographies among other paramenters
 
 The screenshots below give a preview of the dashboard:
