@@ -1,1 +1,4 @@
-A dataset of information pertaining to housing in Nashville was imported. Cleaning of data was then carried out, making it more organized into clear columns, with deletion of unwanted columns and splitting of content for better readability
+Data Analysis Project - Sales Management 
+Business Request and User Stories
+![Screenshot 2023-01-30 001126](https://user-images.githubusercontent.com/107060022/215348581-29d6133c-d006-468c-9d03-9c75e654f105.png)
+
