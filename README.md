@@ -10,3 +10,5 @@ One data sources (Sales Budget) was provided in Excel format and connected in th
 
 Below are the SQL statements for cleansing and transforming the data. 
 
+Dim_Calendar:
+![Screenshot 2023-01-30 001939](https://user-images.githubusercontent.com/107060022/215348984-d5a61ce2-fc7a-4a9d-bc43-fc104984846e.png)
