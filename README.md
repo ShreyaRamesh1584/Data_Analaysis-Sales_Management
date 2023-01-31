@@ -2,7 +2,7 @@ DATA ANALYSIS PROJECT - SALES MANAGEMENT
 
 Business Request and User Stories
 
-![Screenshot 2023-01-30 001126](https://user-images.githubusercontent.com/107060022/215348581-29d6133c-d006-468c-9d03-9c75e654f105.png | width=250)
+![Screenshot 2023-01-30 001126](https://user-images.githubusercontent.com/107060022/215348581-29d6133c-d006-468c-9d03-9c75e654f105.png =250*250)
 
 Data Cleansing and Transformation using SQL: To create the necessary data model and meet business needs defined in the user stories the following tables were extracted using SQL.
 
